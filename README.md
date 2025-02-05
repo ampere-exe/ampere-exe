@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Structure and Interpretation of Computer Programs**
-
-- 👨‍💻 All of my projects are available at [https://github.com/ampere-exe](https://github.com/ampere-exe)
+- 🌱 I’m currently learning stuff!**
 
 - 📫 How to reach me **zuhair.emaz@gmail.com**
 
