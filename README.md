@@ -1,4 +1,4 @@
-<h1 align="center">Zuhair Emaz</h1>
+<h1 align="center">ampere_exe</h1>
 <img  align="center" alt="Coding" width="900" src="https://i.pinimg.com/originals/37/75/11/37751162cba905651c93d8e9674e35a3.gif">
 <h1></h1>
 <p>Hey, my name is Zuhair Emaz and I'm an aspiring computer engineer from Canada with a passion for making things (or making things better). I go by my alias ampere_exe (or .exe, -exe)</p>
