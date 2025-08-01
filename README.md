@@ -1,7 +1,7 @@
 <h1 align="center">ampere_exe</h1>
 <img  align="center" alt="Coding" width="900" src="https://i.pinimg.com/originals/37/75/11/37751162cba905651c93d8e9674e35a3.gif">
 <h1></h1>
-<p>Hey, my name is Zuhair Emaz and I'm an aspiring computer engineer from Canada with a passion for making things (or making things better). I go by my alias ampere_exe (or .exe, -exe)</p>
+<p>Hey, my name is Zuhair Emaz and I'm an aspiring engineer from Canada. I go by my alias ampere_exe (or .exe, -exe)</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
